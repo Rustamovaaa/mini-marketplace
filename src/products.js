@@ -4,7 +4,7 @@ async function loadProducts() {
   try {
     container.innerHTML = '<p class="loading">Loading...</p>'
     
-    const response = await fetch('https://fakestoreapi.com/products')
+    const response = await fetch('/api/products');
     const products = await response.json()
     
     container.innerHTML = ''
