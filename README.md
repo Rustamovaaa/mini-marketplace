@@ -28,11 +28,6 @@ The project includes several example screenshots in the `assets/` folder. Use an
 - `assets/mobile-1.png`
 - `assets/mobile-2.png`
 
-
-
-## Demo link (optional)
-- Demo: (add hosted demo URL here if available)
-
 ## Run locally
 Install dependencies and start the dev server:
 
