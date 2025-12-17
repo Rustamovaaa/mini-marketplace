@@ -27,6 +27,12 @@ The project includes several example screenshots in the `assets/` folder. Use an
 - `assets/desktop-3.png`
 - `assets/mobile-1.png`
 - `assets/mobile-2.png`
+<img width="1878" height="910" alt="image" src="https://github.com/user-attachments/assets/3884bc04-79e8-451c-9938-2b06eb554bfd" />
+<img width="1311" height="719" alt="image" src="https://github.com/user-attachments/assets/0f349b99-b799-4b6f-9a31-b363ac603575" />
+<img width="1906" height="781" alt="image" src="https://github.com/user-attachments/assets/236a65ca-fe3f-416a-881c-dd02c52d241d" />
+<img width="440" height="720" alt="image" src="https://github.com/user-attachments/assets/18554b60-7439-41c1-88d5-bc2b5840effc" />
+<img width="443" height="724" alt="image" src="https://github.com/user-attachments/assets/63727ef5-2a44-4deb-9fb9-6a61264afcc8" />
+
 
 ## Run locally
 Install dependencies and start the dev server:
