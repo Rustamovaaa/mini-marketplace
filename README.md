@@ -5,13 +5,19 @@
 MiniMarketplace
 
 ## Time spent
-- 6 hours
+- 6-7 hours
 
-## Hard parts
+## Tasks that were done
 - Integrating Vanilla JS product rendering with the React cart (`window.addToCart` bridge).
 - Responsive layout: two-column desktop grid and single-column mobile, plus a responsive navbar and footer.
 - Ensuring cart persistence via `localStorage` and keeping UI in sync.
 - Iterating CSS for product card layout and media-query ordering.
+
+## Hard tasks
+- Making the UI responsive without special tools or libraries like TailwindCSS or Bootstrap
+- Handling fetching data, when the app was deployed to Vercel there was CORS origin
+- Creating UI without exact design
+- Cart management
 
 ## Screenshots
 The project includes several example screenshots in the `assets/` folder. Use any of the following files (relative paths):
